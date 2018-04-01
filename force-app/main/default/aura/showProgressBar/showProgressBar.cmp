@@ -1,4 +1,4 @@
-<aura:component >
+<aura:component implements="force:hasRecordId,force:hasSObjectName,flexipage:availableForRecordHome">
         
     <!-- PROGRESS BAR REFERENCE - REQUIRED -->        
     <c:lightningProgressBar aura:id="progbar-component" progress="30" height="25" color="#337ab7" stripes="true" />
