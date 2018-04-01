@@ -1,0 +1,47 @@
+<aura:component implements="force:hasRecordId,force:hasSObjectName,flexipage:availableForRecordHome">
+        
+    <!-- PROGRESS BAR REFERENCE - REQUIRED -->        
+    <c:lightningProgressBar aura:id="progbar-component" progress="30" height="25" color="#337ab7" stripes="true" />
+
+
+    <!-- FORM BELOW IS FOR DEMO PURPOSES ONLY - NOT REQUIRED FOR USE -->
+      <div class="slds-page-header">
+        
+        <div class="slds-m-top--large slds-m-bottom--medium">
+            <fieldset class="slds-form-element">
+              <div class="slds-form-element__control">
+                <span class="slds-radio">
+                  <input type="radio" id="radio-25" name="options" checked="true" />
+                  <label class="slds-radio__label" for="radio-25" data-style="Bar" onclick="{!c.showStripes}">
+                    <span class="slds-radio--faux"></span>
+                    <span class="slds-form-element__label">Stripes</span>
+                  </label>
+                </span>
+                <span class="slds-radio">
+                  <input type="radio" id="radio-26" name="options" data-style="Toast" onclick="{!c.hideStripes}" />
+                  <label class="slds-radio__label" for="radio-26">
+                    <span class="slds-radio--faux"></span>
+                    <span class="slds-form-element__label">No Stripes</span>
+                  </label>
+                </span>
+              </div>
+            </fieldset>  
+        </div>  
+
+        <div class="slds-m-vertical--medium">
+            Progress %:<br/>
+            <ui:inputText aura:id="progressInput"></ui:inputText>
+        </div>
+
+        <div class="slds-m-vertical--medium">
+            Color (Hex, RGB):<br/>
+            <ui:inputText aura:id="new-color"></ui:inputText>
+        </div>        
+        
+        <div class="slds-m-vertical--medium">
+            <button class="slds-button slds-button--neutral" onclick="{!c.changeProgressBar}">Update Progress Bar</button>    
+        </div>
+
+    </div>              
+    
+</aura:component>
