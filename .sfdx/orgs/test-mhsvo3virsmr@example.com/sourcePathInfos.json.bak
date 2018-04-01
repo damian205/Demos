@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522599832251,
+            "changeTime": 1522599832251,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522599832252,
+            "changeTime": 1522599832252,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522599832253,
+            "changeTime": 1522599832253,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522600497972,
+            "changeTime": 1522600497972,
+            "contentHash": "47b0e56f59eb6d91f942dc81239ad6683ba71339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522600497957,
+            "changeTime": 1522600497957,
+            "contentHash": "9775598200a1cf66cea92bf2bf9f8ebb8ccfb3b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1772,
+            "modifiedTime": 1522600497953,
+            "changeTime": 1522600497953,
+            "contentHash": "1b9945fd7e48e71d250d33ec9322fa767b742c69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1522600497949,
+            "changeTime": 1522600497949,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\GettingStarted\\GettingStarted.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 283,
+            "modifiedTime": 1522600497957,
+            "changeTime": 1522600497957,
+            "contentHash": "b11c12787e942b5b72a9699df3915629b8eecaf4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522600497969,
+            "changeTime": 1522600497969,
+            "contentHash": "6894c5ee33a57103d280fa50f0ae061c6ff2c493",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 775,
+            "modifiedTime": 1522600497966,
+            "changeTime": 1522600497966,
+            "contentHash": "15f249966d63b06ea5e5d5e7eaf35c10fe58d79d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1522600497963,
+            "changeTime": 1522600497963,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\lightningProgressBar\\lightningProgressBar.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1129,
+            "modifiedTime": 1522600497970,
+            "changeTime": 1522600497970,
+            "contentHash": "236b2790061d9c715958bd40925e3c269d3a0f69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522600497982,
+            "changeTime": 1522600497982,
+            "contentHash": "28d79ba9f0f4c7f99a6977c9bb668e93d17a499c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBar.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBar.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1952,
+            "modifiedTime": 1522600497978,
+            "changeTime": 1522600497978,
+            "contentHash": "31eee9525f5fab80c7a51207dc48982b14a54730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBar.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBar.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1522600497975,
+            "changeTime": 1522600497975,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBarController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos\\force-app\\main\\default\\aura\\showProgressBar\\showProgressBarController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 902,
+            "modifiedTime": 1522600497983,
+            "changeTime": 1522600497983,
+            "contentHash": "71417ef028d0db516946daa1eb7530ffc8392f42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dkazior\\Documents\\Demos",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dkazior\\Documents\\Demos",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522601062523,
+            "changeTime": 1522601062523,
+            "contentHash": "1df87282b3f8069c9bdbe94f343aa8ae1efafb5e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
